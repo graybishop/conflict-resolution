@@ -5,4 +5,5 @@
 All of this content added to the readme file has been added from my local Git repository.
 
 Testing merge conflicts and conflict resolution.
-igt
+
+More text here.
